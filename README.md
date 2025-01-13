@@ -15,6 +15,7 @@ A console-based todo list application to help keep track of tasks.
    ```bash
    git clone https://github.com/daragonfly/todo-Girardot-CDOF2.git
    cd todo-Girardot-CDOF2
+   ```
 
 ## Install Python (if not already installed)
 
